@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "user-manzil",
+  "private_key_id": "5f4097e3c081d28c92311d3f9293fff8da9d5eea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDT3hGllwxl0lDx\nTNEiXAP29CIMMVHswCq9t2hTyU+XXOkkDRigM8QDQmvGe/qCzz+8F22Fcu9K6VMa\nk/UNUdpQEESZM9SSKBF2VKIisxdo2c54kbLsHCRhbPsto0um5+nCCKcsGdntas3H\n+brF6Pu2f+kNaDIYWE5/vGQdasyxno3gyKSIHRcVp4XzonVGpXwHjHiTDHZIiszP\nmd4evqPz0NXCpgsoQ0sEpUPc8JUK12lFbviQcVHEuL5nwwOh5SdwTcQXS0lhgL1i\n2N3kq0iHs7YJu9YKJviipgPibDRbwKpemXn3y9OGetKrlRGuUy/7NPhGQnu7pB55\nnS6Mif4XAgMBAAECggEAXKJPZ+3bq1diMabrF9FQoHTMwDT+Q3wgE/QxptSxupYS\nj8M0HbOUg/JSKiYB+ZjBHq3FoqAGtWPABLJlZi4APJpoS+3oBwGC5RCLFY3lceAt\nkPTvXKHPXFOonSM1TCRBRie/ZB5ndRGKKOHtQmQkTn6tuMFyicduhxYpVd1g41WK\ntTpH13yF6PvZ/pTZQxtHe/qi6HqBEwJ69s+V6LoxuZv/5pwANeC4aZeqsc9UJJ+s\nIxJAB+Lxq+0aqlDmQ1hsFFZC0lGpO8xSwPhwJSymqyT25pG4YVsI3FD8Act8pYQZ\nC/nUyV1LJtOufEntITfqeldFPVH8OCRMyR/eNPmGaQKBgQDtTs1M1DI5YWczlo/T\n05VqcjGVi1mxRdX/ESKxY45F+LeSxGdCRQDm5iYR6dLp5oUVTny9pKvLsrPxdUMV\ndi8Tqj6FQz3dhVkuWc7aRZUeVq7nnpIdpDKkZuOceO6UfxJQITtLRl3JL8Zn+MGH\nLzp09I8Tgf4PbpwmzkMLEUR9OQKBgQDkjkY30Jw6y+yQwUKkvNJbKWd1QJGR/Pzt\npRHzROyCWBYiezOtRzkGkE6C1GDQBsPYiNFH0zCY9B9/xFZIoCRq5oJlB42CCf+8\nH2mklbG8AETinRk/FRx2lOVB1UQxTtQzcEePITGbJQ4u3h3vcxx3u4vghInzpVEl\njh+BkAulzwKBgGSPzDgOg+oE+LLHztM5Ckw9b/2rO6r/qRuZq1X4lkXYjBJJ4GgY\nzbULOn7E03gDE8pfpETJD3QWmmJsCq2Bk5mFv1DBmenRpGUb8ahVbEea/Cty6wBc\noIlCgJnCNXgAEUabjoDrpLqo4C8XHwumW+NL74WYxIzNlqZrKcX630chAoGBAKav\nbF6AcbAf0SOxDp1+aBu8Eovcz02dKAlY/cJhXeuhumLjX0jcTKaQz/FyWjjc9jAR\neC/dwe+K+v3/fr3wrR6ZhjeQTo+sIypb7nvuAHWP7K0ozaTIDL4e0SQ2GUmsp+3r\n0QR9vOPdHn7n1wUu+nAIA3d2sfVTd97fy/J9z0DZAoGBAIhuuZodhtQ5Ex4817bD\na7SBP6zcfDvqM7JWKXvvKQ48RmCbz/cBTSH5eTldH20S+MUbFWOH3Xqm9NFsHgYr\nUDOkzcm5IOJ3ovCiQyIv8+xZD6qRwPGR5wGbOUZah/ktYxWDMG7r9njvWohW03zL\nekezjYkRglnw0qhSO4OKzJPK\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7q2ne@user-manzil.iam.gserviceaccount.com",
+  "client_id": "110117728220988773509",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7q2ne%40user-manzil.iam.gserviceaccount.com"
+}
